@@ -84,6 +84,8 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: flex-end;
+
+    padding-top: 15px;
 }
 
 .top_hrule {
@@ -181,6 +183,10 @@ article h1 img {
     vertical-align: middle;
 }
 
+article p {
+    font-size: small;
+}
+
 p {
     text-align: justify;
 }
@@ -213,6 +219,7 @@ aside .sub_container img {
     display: block;
     margin-left: auto;
     margin-right: auto;
+    margin-top: 15px;
 
     box-shadow: 0px 0px 1px  rgba(0, 0, 0, 1);
 
@@ -254,12 +261,12 @@ footer {
     width: 950px;
 
     display: flex;
+
+    padding-bottom: 20px;
 }
 
 footer section {
     flex: 1;
-    border: 1px solid black;
-
 }
 
 .pictures {
@@ -273,9 +280,17 @@ footer section {
 
 .my_friends ul {
     column-count: 2;
+    column-gap: 0;    
 
     margin-top: 10px;
+
+    list-style-image: url('images/ico_liensexterne.png');
+    list-style-position: inside;
+    padding: 0;
+
+    font-size: small;
 }
+
 
 .my_friends a {
     text-decoration: none;
