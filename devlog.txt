@@ -1,0 +1,15 @@
+26/08/2022
+
+- I start by structuring the HTML file with semantic markup
+
+> 15:15
+- I sketched on piece of paper the box structuring the webpage
+  with semantic markup associated.
+- I analyzed the layout and the design files and came to 
+  conclusion that the width of the page is the same of the
+  sanfranscisco.jpg slaph picture.
+
+> 15:17
+- width of the webpage: 950px
+
+> 

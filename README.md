@@ -40,7 +40,7 @@ Model of the website: [Click here to view](model.jpg)
 - Semantic HTML5 markup
 - CSS3 custom properties
 - Flexbox
-- [Design files to download](https://course.oc-static.com/ftp-tutos/cours/html-css/p3/ch4/tp_images_polices.zip) - For styles
+- [Design files direct download link](https://course.oc-static.com/ftp-tutos/cours/html-css/p3/ch4/tp_images_polices.zip) - For styles
 
 ### What I learned
 
