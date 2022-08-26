@@ -103,7 +103,7 @@ header {
 
     background-image: url("images/sanfrancisco.jpg");
 
-    border-radius: 5px;
+    border-radius: 6px;
 
     display: flex;
     flex-direction: column;
@@ -115,14 +115,14 @@ header {
     background-color: rgba(0, 0, 0, 0.5);
     color: white;
 
-    border-radius: 0px 0px 5px 5px;
+    border-radius: 0px 0px 6px 6px;
 
     display: flex;
     justify-content: space-between;
 
-    padding: 5px;
+    padding: 8px;
 
-    font-size: x-small;
+    font-size: small;
 
 }
 
@@ -139,20 +139,22 @@ header {
     text-decoration: none;
     color: white;
 
-    width: 80px;
-    line-height: 21px;
+    width: 130px;
+    line-height: 29px;
 
     background-image: url("images/fond_degraderouge.png");
 
-    border-radius: 3px;
+    border-radius: 6px;
 
     text-align: center;
     
 }
 
+/*
 .strip a img {
     height: 8px;
 }
+*/
 
 main {
     margin: auto;
