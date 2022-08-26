@@ -26,3 +26,10 @@ Now let's start with font formatting.
 > 18:30
 I finished with formatting fonts. Now, I'm going to tackle
 the header. Incha'Allah.
+
+> 18:40
+Done for the header. Now we are going for the horizontal bar on the top.
+Incha'Allah.
+
+> 18:49
+I'm done with the top horizontal rule. Let's do the splash image after commiting.
