@@ -42,3 +42,10 @@ general layout incha'Allah
 I finished to give size to main, and also to aside.
 Now, I'm going to shape aside and what's inside.
 Incha'Allah
+
+> 20:50:
+We finished the aside layout. Now we are going to atack the
+footer.
+We are going to first do the general layout. Then we will do
+sequentially all the sub content. Incha'Allah.
+
