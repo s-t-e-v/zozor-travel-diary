@@ -75,6 +75,7 @@ How to display an unordered list in two columns?: https://stackoverflow.com/ques
 CSS column-count Property: https://www.w3schools.com/cssref/css3_pr_column-count.asp
 Horizontal menu: https://www.w3schools.com/html/tryit.asp?filename=tryhtml_lists_menu
 Lorem Ipsum: https://www.lipsum.com/feed/html
+HTML-CSS Center Text horizontally and vertically in a link: https://stackoverflow.com/questions/14862604/html-css-center-text-horizontally-and-vertically-in-a-link
 
 ## Author
 

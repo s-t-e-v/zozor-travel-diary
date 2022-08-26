@@ -88,6 +88,68 @@ header {
     margin-top: 15px;
 }
 
+.splash_img {
+
+    margin: auto;
+
+    margin-top: 15px;
+
+    width: 950px;
+    height: 219px;
+
+    background-image: url("images/sanfrancisco.jpg");
+
+    border-radius: 5px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+
+}
+
+.strip {
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
+
+    border-radius: 0px 0px 5px 5px;
+
+    display: flex;
+    justify-content: space-between;
+
+    padding: 5px;
+
+    font-size: x-small;
+
+}
+
+.strip a {
+    display: block;
+}
+
+.description{
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.strip a {
+    text-decoration: none;
+    color: white;
+
+    width: 80px;
+    line-height: 21px;
+
+    background-image: url("images/fond_degraderouge.png");
+
+    border-radius: 3px;
+
+    text-align: center;
+    
+}
+
+.strip a img {
+    height: 8px;
+}
+
 .h1_icon {
     vertical-align: middle;
 }
