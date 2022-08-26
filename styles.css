@@ -126,7 +126,6 @@ header {
     padding: 8px;
 
     font-size: small;
-
 }
 
 .strip a {
@@ -149,15 +148,9 @@ header {
 
     border-radius: 6px;
 
-    text-align: center;
-    
+    text-align: center;   
 }
 
-/*
-.strip a img {
-    height: 8px;
-}
-*/
 
 .main_container {
     margin: 0;
@@ -189,29 +182,35 @@ article p {
 
 p {
     text-align: justify;
+    font-size: small;
 }
 
 aside {
     color: white;
     text-shadow: 1px 1px 1px black;
-    font-size: small;
 
     width: 300px;
     flex-shrink: 0;
 
     box-sizing: border-box;
 
-    padding-left: 20px;
+}
 
+.bulle img {
+    position: relative;
+
+    margin-left: 3px;
+
+    top: 140px;
 }
 
 aside .sub_container {
+
     padding: 10px;
 
     background-color: #6f6a63;
 
     border-radius: 8px;
-
 }
 
 /*profile picture*/
@@ -255,7 +254,6 @@ aside .sub_container img {
 }
 
 footer {
-
     margin: auto;
 
     width: 950px;

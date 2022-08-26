@@ -58,7 +58,10 @@ increasing the size of navigation items.
 Before doing the footer, I have to do the bottom top_hrule
 
 > 21:00:
-/!\ I have to add to the aside sub_container the triange.
+/ok\ I have to add to the aside sub_container the triange.
 /ok\ Don't forget to set the background color for header, main and footer.
 main is a darker wheat color.
 
+> 23:15:
+I did the bottom_hrule, the footer. I also add the triangle.
+Appart from the layout for the title in the header and the nav part, project done!
