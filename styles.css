@@ -33,6 +33,10 @@ h1 {
 body {
     font-family: sans-serif;
     color: #181818;
+    background-color: #fff8dc;
+
+    display: flex;
+    flex-direction: column;
 }
 
 nav ul {
@@ -60,6 +64,16 @@ nav ul a {
     color: #760001;
 
     text-decoration-thickness: 3px;
+}
+
+
+header {
+    margin: auto;
+
+    width: 950px;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
 }
 
 
