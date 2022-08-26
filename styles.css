@@ -23,16 +23,16 @@ body, html{
     font-family: "dayrom", sans-serif;
 }
 
-.title h1 {
-    font-family: "ballpark", sans-serif;
-    font-weight: normal;
-    padding: 0;
-    margin: 0;
-}
-
 h1 {
     font-family: "dayrom", sans-serif;
     font-weight: normal;
+    font-size: large;
+    margin: 0;
+}
+
+.title h1 {
+    font-family: "ballpark", sans-serif;
+    font-size: xx-large;
 }
 
 a {
@@ -172,6 +172,9 @@ main {
     width: 950px;
 
     display: flex;
+
+    margin-bottom: 10px;
+    margin-top: 30px;
 }
 
 article h1 img {
@@ -193,7 +196,6 @@ aside {
     box-sizing: border-box;
 
     padding-left: 20px;
-    padding-top: 15px;
 
 }
 
@@ -245,8 +247,34 @@ aside .sub_container img {
                 url("images/ombre.png") repeat-x 0px 3px;
 }
 
+footer {
+
+    margin: auto;
+
+    width: 950px;
+
+    display: flex;
+}
+
+footer section {
+    flex: 1;
+    border: 1px solid black;
+
+}
+
+.pictures {
+    margin-top: 10px;
+}
+
+.pictures img {
+    display: inline-block;
+    border: 1px solid black;
+}
+
 .my_friends ul {
     column-count: 2;
+
+    margin-top: 10px;
 }
 
 .my_friends a {
