@@ -49,3 +49,16 @@ footer.
 We are going to first do the general layout. Then we will do
 sequentially all the sub content. Incha'Allah.
 
+> 20:57:
+/!\ I should create a new branch for putting 'Zozor' and 'Carnets de voyage'
+close to each other, without space. And also for 
+increasing the size of navigation items.
+
+> 20:58:
+Before doing the footer, I have to do the bottom top_hrule
+
+> 21:00:
+/!\ I have to add to the aside sub_container the triange.
+/ok\ Don't forget to set the background color for header, main and footer.
+main is a darker wheat color.
+

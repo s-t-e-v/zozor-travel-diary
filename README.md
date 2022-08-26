@@ -76,6 +76,7 @@ CSS column-count Property: https://www.w3schools.com/cssref/css3_pr_column-count
 Horizontal menu: https://www.w3schools.com/html/tryit.asp?filename=tryhtml_lists_menu
 Lorem Ipsum: https://www.lipsum.com/feed/html
 HTML-CSS Center Text horizontally and vertically in a link: https://stackoverflow.com/questions/14862604/html-css-center-text-horizontally-and-vertically-in-a-link
+repeat vertically: https://www.w3schools.com/cssref/pr_background-repeat.asp
 
 ## Author
 

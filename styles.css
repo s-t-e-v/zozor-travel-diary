@@ -42,7 +42,8 @@ a {
 body {
     font-family: sans-serif;
     color: #181818;
-    background-color: #fff8dc;
+
+    background-image: url("images/fond_jaune.png");
 
     display: flex;
     flex-direction: column;
@@ -156,6 +157,15 @@ header {
 }
 */
 
+.main_container {
+    margin: 0;
+    padding: 0;
+
+    width: 100%;
+
+    background-color: #f7ebcc;
+}
+
 main {
     margin: auto;
 
@@ -213,18 +223,27 @@ aside .sub_container img {
     margin-top: 30px;
 }
 
-/* social logo*/
 .social a {
     display: block;
     
     width: 42px;
     height: 42px;
 }
+/* social logo*/
 .facebook { background-image: url("images/facebook.png");}
 .twitter { background-image: url("images/twitter.png");}
 .vimeo { background-image: url("images/vimeo.png");}
 .flickr { background-image: url("images/flickr.png");}
 .rss { background-image: url("images/rss.png");}
+
+.bottom_hrule {
+    width: 100%;
+    height: 30px;
+    
+    background: url("images/ico_top.png") no-repeat top center,
+                url("images/separateur.png") repeat-x,
+                url("images/ombre.png") repeat-x 0px 3px;
+}
 
 .my_friends ul {
     column-count: 2;
