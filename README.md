@@ -70,6 +70,12 @@ The resources bellow gave me the necessary knowledge to complete this project:
 - [Example 2](https://examplle2.com): This Stackoverflow Q&A helped me to figure out how to combine media queries with "OR" conditions using the good syntax.
 
 
+text-decoration-thickness: https://developer.mozilla.org/en-US/docs/Web/CSS/text-decoration-thickness
+How to display an unordered list in two columns?: https://stackoverflow.com/questions/14745297/how-to-display-an-unordered-list-in-two-columns
+CSS column-count Property: https://www.w3schools.com/cssref/css3_pr_column-count.asp
+Horizontal menu: https://www.w3schools.com/html/tryit.asp?filename=tryhtml_lists_menu
+Lorem Ipsum: https://www.lipsum.com/feed/html
+
 ## Author
 
 - Github - [s-t-e-v](https://github.com/s-t-e-v)

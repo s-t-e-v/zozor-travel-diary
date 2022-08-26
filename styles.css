@@ -1,0 +1,87 @@
+@font-face {
+    font-family: "ballpark";
+    src: url("polices/ballpark.eot") format("eot"),
+         url("polices/ballpark.ttf") format("truetype"),
+         url("polices/ballpark.woff") format("woff"),
+         url("polices/ballpark.svg") format("svg");
+}
+
+@font-face {
+    font-family: "dayrom";
+    src: url("polices/dayrom.eot") format("eot"),
+         url("polices/dayrom.ttf") format("truetype"),
+         url("polices/dayrom.woff") format("woff"),
+         url("polices/dayrom.svg") format("svg");
+}
+
+.title {
+    font-family: "dayrom", sans-serif;
+}
+
+.title h1 {
+    font-family: "ballpark", sans-serif;
+    font-weight: normal;
+    padding: 0;
+    margin: 0;
+}
+
+h1 {
+    font-family: "dayrom", sans-serif;
+    font-weight: normal;
+}
+
+body {
+    font-family: sans-serif;
+    color: #181818;
+}
+
+nav ul {
+    font-family: "dayrom", sans-serif;
+
+    list-style-type: none;
+
+    padding: 0;
+    margin: 0;
+    display: flex;
+    gap: 30px;
+}
+
+nav ul a {
+    display: block;
+    text-align: center;
+}
+
+.nav_it {
+    text-decoration: none;
+    color: #181818;
+}
+
+.home {
+    color: #760001;
+
+    text-decoration-thickness: 3px;
+}
+
+
+.h1_icon {
+    vertical-align: middle;
+}
+
+p {
+    text-align: justify;
+}
+
+aside {
+    background-color: #6f6a63;
+    color: white;
+    text-shadow: 1px 1px 1px black;
+}
+
+.my_friends ul {
+    column-count: 2;
+}
+
+.my_friends a {
+    text-decoration: none;
+    color: #760001;
+}

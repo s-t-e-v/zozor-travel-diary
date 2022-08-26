@@ -6,6 +6,7 @@ Background
 - grey: 6f6a63
 Fonts
 - Purple red: 760001
+- Dark grey: 181818
 
 # Fonts
 
