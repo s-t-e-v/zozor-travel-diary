@@ -65,3 +65,95 @@ main is a darker wheat color.
 > 23:15:
 I did the bottom_hrule, the footer. I also add the triangle.
 Appart from the layout for the title in the header and the nav part, project done!
+
+
+09/09/2022
+
+> 15:53:
+
+I'm going back to the code in order to have eyebird view of what I did, and better
+compare to the Openclassroom solution.
+
+I'm currently googling "how to review code" and "comment best pratices html code".
+
+> 15:59:
+
+HTML:
+I began with the head part.
+- In the head tag:
+  - I set encoding to UTF-8
+  - I put a line I don't fully understand that is supposed to display site properly
+  based on user's device
+  - I set the tab icon
+  - I linked the file to stylessheet file "styles.css"
+  - I set the title of the web page
+Then, I 
+
+> 16:05:
+
+I am adding some comment.
+
+HTML:
+- I structured the body like so:
+  1. header
+  2. top horizontal line
+  3. div which contain the main content and the "splash" image
+  4. bottom horizontal line
+  5. Foooter
+
+> 16:40
+
+I was thinking about the best way to do this code review.
+
+In the meantime, I discovered a great web page on best pratices in html. Here the
+link: 
+
+  HTML Style Guide
+  https://gist.github.com/ryansechrest/8693303
+
+I'm thinking about turning this develog into a .md file. It may be nicer to read.
+
+So I though about a strategy to the review there is what I came up for:
+
+1. Set clearly the goal. The goal here is:
+  - to bring to light the logic behind the code, how it is structured
+  and how one choose to solve the different issues.
+  - help you write better code for the personnal website
+2. I have to do the process for my code and the Openclassroom code.
+3. Then I compare the way of both codes, keep what is good in my code, point what 
+is not good and what should I do instead.
+4. Make a sumary of what you learn from the process in both codes. Highligh good
+pratices, best way to solve problem to help the future you.
+
+> 16:49:
+
+Looking on google for "how to learn from code".
+
+> 16:58:
+
+This helped me for the code review strategy:
+
+  Best Practices for Code Review
+  https://www.perforce.com/blog/qac/9-best-practices-for-code-review
+
+> 17:16:
+
+I read quickly these web pages. I save it here because it may be very interesting
+to apply the advice in here.
+
+Before posting the links bellow, I learn from those posts that it was important to
+read codes to better write codes, as for writting. You become a better writter
+with more vocabulary, etc. by reading other writtings. So, I think I should also
+read more, to become better I expressing myself in French and in English. However,
+I have to do it the Halal way. How? I don't know.
+
+Links:
+
+  Become a Better Developer by Reading Source Code
+  https://www.stevejgordon.co.uk/become-a-better-developer-by-reading-source-code
+
+  Learn from Source Code (an Effective Way to Grow for Beginners)
+  https://coderscat.com/learn-from-source-code/
+
+  How do I review my own code? [closed]
+  https://softwareengineering.stackexchange.com/questions/139321/how-do-i-review-my-own-code
