@@ -1,3 +1,4 @@
+/* -------- fonts loading -------- */
 @font-face {
     font-family: "ballpark";
     src: url("polices/ballpark.eot") format("eot"),
@@ -14,6 +15,7 @@
          url("polices/dayrom.svg") format("svg");
 }
 
+/* -------- General formating - <body> Body -------- */
 body, html{
     margin:0;
     padding:0;
@@ -49,6 +51,7 @@ body {
     flex-direction: column;
 }
 
+/* -------- <header> Header--------*/
 nav ul {
     font-family: "dayrom", sans-serif;
 
@@ -88,6 +91,8 @@ header {
     padding-top: 15px;
 }
 
+
+/* -------- <div> top horizontal line -------- */
 .top_hrule {
     background-image: url("images/separateur.png");
     width: 100%;
@@ -95,6 +100,9 @@ header {
     margin-top: 15px;
 }
 
+/* --------- <div> Main container -------- */
+
+/* ---- Splash image div ---- */
 .splash_img {
 
     margin: auto;
@@ -151,7 +159,7 @@ header {
     text-align: center;   
 }
 
-
+/* ---- General formating - <div> Main container ---- */
 .main_container {
     margin: 0;
     padding: 0;
@@ -161,6 +169,7 @@ header {
     background-color: #f7ebcc;
 }
 
+/* ---- <main> Main ---- */
 main {
     margin: auto;
 
@@ -172,6 +181,7 @@ main {
     margin-top: 30px;
 }
 
+/* -- <article> Article -- */
 article h1 img {
     vertical-align: middle;
 }
@@ -185,16 +195,7 @@ p {
     font-size: small;
 }
 
-aside {
-    color: white;
-    text-shadow: 1px 1px 1px black;
-
-    width: 300px;
-    flex-shrink: 0;
-
-    box-sizing: border-box;
-
-}
+/* -- <div> bulles -- */
 
 .bulle img {
     position: relative;
@@ -202,6 +203,16 @@ aside {
     margin-left: 3px;
 
     top: 140px;
+}
+
+/* -- <aside> Aside -- */
+aside {
+    color: white;
+    text-shadow: 1px 1px 1px black;
+
+    width: 300px;
+    flex-shrink: 0;
+
 }
 
 aside .sub_container {
@@ -213,8 +224,7 @@ aside .sub_container {
     border-radius: 8px;
 }
 
-/*profile picture*/
-aside .sub_container img {
+aside .sub_container img { /* profile picture */
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -244,6 +254,8 @@ aside .sub_container img {
 .flickr { background-image: url("images/flickr.png");}
 .rss { background-image: url("images/rss.png");}
 
+
+/* -------- <div> Bottom horizontal line -------- */
 .bottom_hrule {
     width: 100%;
     height: 30px;
@@ -253,6 +265,9 @@ aside .sub_container img {
                 url("images/ombre.png") repeat-x 0px 3px;
 }
 
+/* -------- <footer> Footer -------- */
+
+/* ---- General formatting - <footer> Footer ---- */
 footer {
     margin: auto;
 
@@ -267,6 +282,7 @@ footer section {
     flex: 1;
 }
 
+/* ---- my pics <section> ---- */
 .pictures {
     margin-top: 10px;
 }
@@ -276,6 +292,7 @@ footer section {
     border: 1px solid black;
 }
 
+/* ---- my friends <section> ---- */
 .my_friends ul {
     column-count: 2;
     column-gap: 0;    

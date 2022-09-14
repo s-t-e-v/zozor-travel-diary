@@ -157,3 +157,37 @@ Links:
 
   How do I review my own code? [closed]
   https://softwareengineering.stackexchange.com/questions/139321/how-do-i-review-my-own-code
+
+  
+
+14/09/2022
+
+
+
+10:47:
+
+I really don't want to do it, but I'm doing it anyway. I will never achieve anything if I keep
+procradtinating. Let's do it
+
+10:54:
+
+I'm starting by retrieving review writting on this file and put in a dedicated markdown file.
+
+11:06:
+
+The HTML is reviewed. Now we are reviewing the CSS part
+
+11:14:
+
+I am also adding some comments in the CSS file.
+
+11:22:
+
+Doing the code review pushes me to commenting HTML and CSS code, so the structure
+of the file appear more obviously.
+
+13:35:
+
+I finish to review my code. Now, I'm going to use the web checker to correct my html file.
+Afterwards, I will review the code of Mathieu, maybe in my head, or by writting it.
+In the process, I will raise the difference but my code and his code.

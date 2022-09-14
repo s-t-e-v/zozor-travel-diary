@@ -74,10 +74,14 @@ text-decoration-thickness: https://developer.mozilla.org/en-US/docs/Web/CSS/text
 How to display an unordered list in two columns?: https://stackoverflow.com/questions/14745297/how-to-display-an-unordered-list-in-two-columns
 CSS column-count Property: https://www.w3schools.com/cssref/css3_pr_column-count.asp
 Horizontal menu: https://www.w3schools.com/html/tryit.asp?filename=tryhtml_lists_menu
-Lorem Ipsum: https://www.lipsum.com/feed/html
+Lorem Ipsum: https://www.loremipzum.com/en/text-generator
 HTML-CSS Center Text horizontally and vertically in a link: https://stackoverflow.com/questions/14862604/html-css-center-text-horizontally-and-vertically-in-a-link
 repeat vertically: https://www.w3schools.com/cssref/pr_background-repeat.asp
 bullet images: https://www.w3schools.com/cssref/pr_list-style-image.asp
+bullet position: https://www.w3schools.com/cssref/pr_list-style-position.asp
+column-gap: https://developer.mozilla.org/en-US/docs/Web/CSS/column-gap
+
+
 ## Author
 
 - Github - [s-t-e-v](https://github.com/s-t-e-v)
