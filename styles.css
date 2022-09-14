@@ -26,15 +26,17 @@ body, html{
 }
 
 h1 {
+    font-family: "ballpark", sans-serif;
+    font-weight: normal;
+    font-size: xx-large;
+    margin: 0;
+}
+
+h2 {
     font-family: "dayrom", sans-serif;
     font-weight: normal;
     font-size: large;
     margin: 0;
-}
-
-.title h1 {
-    font-family: "ballpark", sans-serif;
-    font-size: xx-large;
 }
 
 a {
@@ -159,6 +161,17 @@ header {
     text-align: center;   
 }
 
+.rightwhitearrow {
+    display: inline-block;
+
+    width: 7px;
+    height: 11px;
+
+    flex-shrink: 0;
+
+    background: url("images/flecheblanchedroite.png") no-repeat;
+}
+
 /* ---- General formating - <div> Main container ---- */
 .main_container {
     margin: 0;
@@ -182,7 +195,13 @@ main {
 }
 
 /* -- <article> Article -- */
-article h1 img {
+
+.ico_epingle {
+    display: inline-block;
+    width: 43px;
+    height: 47px;
+    background: url("images/ico_epingle.png") no-repeat;
+
     vertical-align: middle;
 }
 
@@ -195,14 +214,14 @@ p {
     font-size: small;
 }
 
-/* -- <div> bulles -- */
+/* -- <div> bulle -- */
 
-.bulle img {
-    position: relative;
+.bulle {
+    width: 12px;
 
-    margin-left: 3px;
+    flex-shrink: 0;
 
-    top: 140px;
+    background: url("images/bulle.png") no-repeat 0px 140px;
 }
 
 /* -- <aside> Aside -- */

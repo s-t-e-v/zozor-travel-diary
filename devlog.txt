@@ -191,3 +191,7 @@ of the file appear more obviously.
 I finish to review my code. Now, I'm going to use the web checker to correct my html file.
 Afterwards, I will review the code of Mathieu, maybe in my head, or by writting it.
 In the process, I will raise the difference but my code and his code.
+
+15:28:
+
+I correct the html file. No errors or warnings now according to https://validator.w3.org/
